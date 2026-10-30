@@ -1,0 +1,6 @@
+.cursor/
+runs/
+.DS_Store
+.story-frames/
+unslop-story/
+original.live.png
